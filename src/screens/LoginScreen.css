@@ -53,6 +53,8 @@
   color: #fff;
   padding: 20px;
   text-align: center;
+  left: 0;
+  right: 0;
 }
 
 .loginscreen-body > h1 {
